@@ -14,10 +14,6 @@ public class Main {
         
         
         
-        HI these are some new features that i your friend is adding on the project 
-        please have a look at them and test them once 
-          i shall be very thnakful to you
-        
        
 
 
