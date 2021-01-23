@@ -10,7 +10,7 @@ public class Main {
         Mercedes.model="QAX787";
         Mercedes.engineCapacity="1500cc";
         Mercedes.seatingCapacity="2";
-        Mercedes.name="Mycar";
+        Mercedes.name="Mecar";
 
 
 
